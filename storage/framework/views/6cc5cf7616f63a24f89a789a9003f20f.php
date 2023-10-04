@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\contoh\resources\views/akhir.blade.php ENDPATH**/ ?>
